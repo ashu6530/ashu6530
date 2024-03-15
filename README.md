@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Ashutosh, a full-time Frontend Developer👨‍💻 </div>  
+ 
+  ### <div align="center">I'm Ashutosh, a full-time Frontend Developer👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on ReactJs  
