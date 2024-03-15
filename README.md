@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ashutosh SIngh and I'm a Frontend Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Ashutosh Singh and I'm a Frontend Developer, from India</h2>
 
 ###
 
