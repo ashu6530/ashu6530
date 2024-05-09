@@ -11,9 +11,9 @@ Welcome to my corner of the digital universe! I'm Ashutosh Singh, a zealous Fron
 ## 🛠️ Skills
 
 In my toolkit, you'll find:
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks/Libraries**: React.js, Tailwind CSS
-- **Tools**: Git, VS Code, Figma
+- **Languages**: JavaScript, TypeScript,NodeJs,MongoDb,HTML5, CSS3
+- **Frameworks/Libraries**: React.js, Tailwind CSS, Graph L
+- **Tools**: Git, VS Code, 
 
 ## 🌟 Projects
 
